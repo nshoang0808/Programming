@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1486142657 source:d:\programming\cs377\main.cpp
+	<string>
+	<queue>
+	<map>
+	<set>
+	<stdlib.h>
+	<string>
+	<iostream>
+	<fstream>
+	<map>
+
